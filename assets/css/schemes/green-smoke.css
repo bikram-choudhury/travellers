@@ -1,0 +1,695 @@
+a,
+.comment .comment-review-rate,
+.booking-item.booking-item-small .booking-item-rating-stars,
+.booking-item-rating .booking-item-rating-stars,
+.booking-item-raiting-summary-list > li .booking-item-rating-stars,
+.booking-item-reviews > li .booking-item-review-content .booking-item-review-expand span,
+.booking-item-reviews > li .booking-item-review-content .booking-item-rating-stars,
+.booking-item-raiting-summary-list.stats-list-select > li .booking-item-rating-stars > li.selected,
+.btn-ghost.btn-primary,
+.form-group.form-group-focus .input-icon.input-icon-highlight,
+.form-group.form-group-filled label.label-anim,
+.form-group.form-group-filled label.label-highlight,
+.i-check.i-check-stroke.checked:before,
+.checkbox-stroke .i-check.checked:before,
+.radio-stroke .i-radio.checked:before,
+.pagination > li > a,
+.list-category > li > a:hover,
+.user-profile-sidebar .user-profile-nav > li > a:hover > i,
+.user-profile-statictics > li h5,
+.form-group.form-group-focus .input-icon.input-icon-hightlight,
+.last-minute-rating {
+  color: #96aa66;
+}
+.text-color {
+  color: #96aa66 !important;
+}
+a:hover {
+  color: #7a8c4e;
+}
+.post .post-header .post-link:hover,
+.booking-item-raiting-summary-list > li > .booking-item-raiting-list-bar > div,
+.booking-item-raiting-list > li > .booking-item-raiting-list-bar > div,
+.btn-primary,
+.btn-ghost.btn-primary:hover,
+.i-check.checked,
+.i-radio.checked,
+.checkbox-switch .i-check.checked:before,
+.radio-switch .i-radio.checked:before,
+.irs-diapason,
+.bg-color,
+.nav-drop > .nav-drop-menu > li > a:hover,
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.card-thumb .card-thumb-primary-label,
+.card-thumb .card-thumb-new,
+.card-thumb .card-thumb-actions > li > a:hover,
+.owl-controls .owl-page span,
+.owl-controls .owl-buttons div:hover,
+.tt-suggestion.tt-cursor,
+.user-profile-sidebar .user-profile-nav > li.active > a,
+.user-profile-sidebar .user-profile-nav > li.active > a:hover,
+.hover-img .hover-inner,
+.box-icon,
+.search-tabs-bg > .tabbable > .nav-tabs > li.active > a,
+ul.slimmenu li.active > a,
+ul.slimmenu li:hover > a,
+.btn-group-select-num >.btn.active,
+.btn-group-select-num >.btn.active:hover,
+.search-tabs-bg > .tabbable > .nav-tabs > li > a:hover > .fa,
+.box-icon-border:hover,
+.pagination > li.active > a,
+.pagination > li.active > a:hover,
+.datepicker table tr td.active:hover,
+.datepicker table tr td.active:hover:hover,
+.datepicker table tr td.active.disabled:hover,
+.datepicker table tr td.active.disabled:hover:hover,
+.datepicker table tr td.active:focus,
+.datepicker table tr td.active:hover:focus,
+.datepicker table tr td.active.disabled:focus,
+.datepicker table tr td.active.disabled:hover:focus,
+.datepicker table tr td.active:active,
+.datepicker table tr td.active:hover:active,
+.datepicker table tr td.active.disabled:active,
+.datepicker table tr td.active.disabled:hover:active,
+.datepicker table tr td.active.active,
+.datepicker table tr td.active:hover.active,
+.datepicker table tr td.active.disabled.active,
+.datepicker table tr td.active.disabled:hover.active,
+.open .dropdown-toggle.datepicker table tr td.active,
+.open .dropdown-toggle.datepicker table tr td.active:hover,
+.open .dropdown-toggle.datepicker table tr td.active.disabled,
+.open .dropdown-toggle.datepicker table tr td.active.disabled:hover,
+.datepicker table tr td span.active:hover,
+.datepicker table tr td span.active:hover:hover,
+.datepicker table tr td span.active.disabled:hover,
+.datepicker table tr td span.active.disabled:hover:hover,
+.datepicker table tr td span.active:focus,
+.datepicker table tr td span.active:hover:focus,
+.datepicker table tr td span.active.disabled:focus,
+.datepicker table tr td span.active.disabled:hover:focus,
+.datepicker table tr td span.active:active,
+.datepicker table tr td span.active:hover:active,
+.datepicker table tr td span.active.disabled:active,
+.datepicker table tr td span.active.disabled:hover:active,
+.datepicker table tr td span.active.active,
+.datepicker table tr td span.active:hover.active,
+.datepicker table tr td span.active.disabled.active,
+.datepicker table tr td span.active.disabled:hover.active,
+.open .dropdown-toggle.datepicker table tr td span.active,
+.open .dropdown-toggle.datepicker table tr td span.active:hover,
+.open .dropdown-toggle.datepicker table tr td span.active.disabled,
+.open .dropdown-toggle.datepicker table tr td span.active.disabled:hover,
+.testimonial-color .testimonial-inner,
+.booking-item-raiting-list > li > div.booking-item-raiting-list-bar > div,
+.booking-item-raiting-summary-list > li > div.booking-item-raiting-list-bar > div,
+::selection {
+  background-color: #96aa66;
+}
+header#main-header,
+.booking-item:hover,
+.booking-item.active,
+.form-control:active,
+.form-control:focus,
+.i-check.hover,
+.i-radio.hover,
+.i-check.checked,
+.i-radio.checked,
+.card-thumb.card-thumb-primary,
+.post .post-header,
+.testimonial-color .testimonial-inner,
+.booking-item-deails-date-location,
+.booking-item-dates-change,
+.fotorama__thumb-border,
+.top-user-area .top-user-area-list > li.top-user-area-avatar > a:hover > img,
+footer#main-footer .form-control:focus {
+  border-color: #96aa66;
+}
+.top-user-area .top-user-area-list > li > a:hover {
+  color: #abbb85;
+}
+.btn-group-select-num >.btn.active,
+.btn-group-select-num >.btn.active:hover,
+.btn-primary,
+.datepicker table tr td.active:hover,
+.datepicker table tr td.active:hover:hover,
+.datepicker table tr td.active.disabled:hover,
+.datepicker table tr td.active.disabled:hover:hover,
+.datepicker table tr td.active:focus,
+.datepicker table tr td.active:hover:focus,
+.datepicker table tr td.active.disabled:focus,
+.datepicker table tr td.active.disabled:hover:focus,
+.datepicker table tr td.active:active,
+.datepicker table tr td.active:hover:active,
+.datepicker table tr td.active.disabled:active,
+.datepicker table tr td.active.disabled:hover:active,
+.datepicker table tr td.active.active,
+.datepicker table tr td.active:hover.active,
+.datepicker table tr td.active.disabled.active,
+.datepicker table tr td.active.disabled:hover.active,
+.open .dropdown-toggle.datepicker table tr td.active,
+.open .dropdown-toggle.datepicker table tr td.active:hover,
+.open .dropdown-toggle.datepicker table tr td.active.disabled,
+.open .dropdown-toggle.datepicker table tr td.active.disabled:hover {
+  border-color: #899d57;
+}
+.btn-primary:hover {
+  background-color: #899d57;
+}
+.btn-primary:hover {
+  border-color: #7a8c4e;
+}
+.hover-img .hover-title,
+.hover-img [class^="hover-title-"],
+.hover-img [class*=" hover-title-"] {
+  background: rgba(150,170,102,0.75);
+}
+.owl-cap-price h5 {
+  color: #a1b375;
+}
+.owl-controls .owl-buttons div:hover {
+  box-shadow: 0 0 0 1px #96aa66;
+}
+.card-thumb .card-thumb-actions > li > a:hover {
+  box-shadow: 0 0 0 1px #819553;
+}
+.booking-item-features > li:hover > i {
+  border-color: #819553;
+}
+.form-group.form-group-ghost .form-control:active,
+.form-group.form-group-ghost .form-control:focus {
+  border-color: #abbb85;
+}
+.datepicker table tr td.today:before,
+.datepicker table tr td.today:hover:before,
+.datepicker table tr td.today.disabled:before,
+.datepicker table tr td.today.disabled:hover:before {
+  border-color: transparent transparent #96aa66 transparent;
+}
+.testimonial-color .testimonial-inner:after,
+.testimonial-color .testimonial-inner:before {
+  border-color: #96aa66 transparent transparent transparent;
+}
+.irs-slider {
+  background: #7a8c4e;
+}
+.btn-ghost.btn-primary {
+  background: none;
+}
+.btn-ghost.btn-primary:hover {
+  color: #fff;
+}
+.box-icon,
+[class^="box-icon-"],
+[class*=" box-icon-"] {
+  background: #96aa66;
+  color: #fff;
+}
+.box-icon:hover,
+[class^="box-icon-"]:hover,
+[class*=" box-icon-"]:hover {
+  background: #7a8c4e;
+  color: #fff;
+}
+.box-icon-black {
+  background: #333;
+}
+.box-icon-black:hover {
+  background: #000;
+}
+.box-icon-gray {
+  background: #808080;
+}
+.box-icon-gray:hover {
+  background: #4d4d4d;
+}
+.box-icon-white {
+  background: #fff;
+  color: #96aa66;
+}
+.box-icon-white:hover {
+  color: #96aa66;
+  background: #e6e6e6;
+}
+.box-icon-info {
+  background: #2f96b4;
+}
+.box-icon-info:hover {
+  background: #267890;
+}
+.box-icon-success {
+  background: #51a351;
+}
+.box-icon-success:hover {
+  background: #418241;
+}
+.box-icon-warning {
+  background: #f89406;
+}
+.box-icon-warning:hover {
+  background: #c67605;
+}
+.box-icon-danger {
+  background: #bd362f;
+}
+.box-icon-danger:hover {
+  background: #972b26;
+}
+.box-icon-inverse {
+  background: #695599;
+}
+.box-icon-inverse:hover {
+  background: #54447a;
+}
+.box-icon-to-normal:hover {
+  background: #96aa66;
+}
+.box-icon-to-black:hover {
+  background: #333;
+}
+.box-icon-to-gray:hover {
+  background: #808080;
+}
+.box-icon-to-white:hover {
+  background: #fff;
+  color: #96aa66;
+}
+.box-icon-to-info:hover {
+  background: #2f96b4;
+}
+.box-icon-to-success:hover {
+  background: #51a351;
+}
+.box-icon-to-warning:hover {
+  background: #f89406;
+}
+.box-icon-to-danger:hover {
+  background: #bd362f;
+}
+.box-icon-to-inverse:hover {
+  background: #695599;
+}
+.box-icon-border,
+[class^="box-icon-border"],
+[class*=" box-icon-border"] {
+  background: none;
+  border: 1px solid #96aa66;
+  color: #96aa66;
+}
+.box-icon-border:hover,
+[class^="box-icon-border"]:hover,
+[class*=" box-icon-border"]:hover {
+  background: #96aa66;
+  color: #fff !important;
+}
+.box-icon-border.box-icon-black,
+[class^="box-icon-border"].box-icon-black,
+[class*=" box-icon-border"].box-icon-black,
+.box-icon-border.box-icon-to-black:hover,
+[class^="box-icon-border"].box-icon-to-black:hover,
+[class*=" box-icon-border"].box-icon-to-black:hover {
+  border-color: #333;
+  color: #333;
+}
+.box-icon-border.box-icon-black:hover,
+[class^="box-icon-border"].box-icon-black:hover,
+[class*=" box-icon-border"].box-icon-black:hover,
+.box-icon-border.box-icon-to-black:hover:hover,
+[class^="box-icon-border"].box-icon-to-black:hover:hover,
+[class*=" box-icon-border"].box-icon-to-black:hover:hover {
+  background: #333;
+}
+.box-icon-border.box-icon-gray,
+[class^="box-icon-border"].box-icon-gray,
+[class*=" box-icon-border"].box-icon-gray,
+.box-icon-border.box-icon-to-gray:hover,
+[class^="box-icon-border"].box-icon-to-gray:hover,
+[class*=" box-icon-border"].box-icon-to-gray:hover {
+  border-color: #808080;
+  color: #808080;
+}
+.box-icon-border.box-icon-gray:hover,
+[class^="box-icon-border"].box-icon-gray:hover,
+[class*=" box-icon-border"].box-icon-gray:hover,
+.box-icon-border.box-icon-to-gray:hover:hover,
+[class^="box-icon-border"].box-icon-to-gray:hover:hover,
+[class*=" box-icon-border"].box-icon-to-gray:hover:hover {
+  background: #808080;
+}
+.box-icon-border.box-icon-white,
+[class^="box-icon-border"].box-icon-white,
+[class*=" box-icon-border"].box-icon-white,
+.box-icon-border.box-icon-to-white:hover,
+[class^="box-icon-border"].box-icon-to-white:hover,
+[class*=" box-icon-border"].box-icon-to-white:hover {
+  border-color: #fff;
+  color: #fff;
+}
+.box-icon-border.box-icon-white:hover,
+[class^="box-icon-border"].box-icon-white:hover,
+[class*=" box-icon-border"].box-icon-white:hover,
+.box-icon-border.box-icon-to-white:hover:hover,
+[class^="box-icon-border"].box-icon-to-white:hover:hover,
+[class*=" box-icon-border"].box-icon-to-white:hover:hover {
+  color: #96aa66;
+  background: #fff;
+}
+.box-icon-border.box-icon-info,
+[class^="box-icon-border"].box-icon-info,
+[class*=" box-icon-border"].box-icon-info,
+.box-icon-border.box-icon-to-info:hover,
+[class^="box-icon-border"].box-icon-to-info:hover,
+[class*=" box-icon-border"].box-icon-to-info:hover {
+  border-color: #2f96b4;
+  color: #2f96b4;
+}
+.box-icon-border.box-icon-info:hover,
+[class^="box-icon-border"].box-icon-info:hover,
+[class*=" box-icon-border"].box-icon-info:hover,
+.box-icon-border.box-icon-to-info:hover:hover,
+[class^="box-icon-border"].box-icon-to-info:hover:hover,
+[class*=" box-icon-border"].box-icon-to-info:hover:hover {
+  background: #2f96b4;
+}
+.box-icon-border.box-icon-success,
+[class^="box-icon-border"].box-icon-success,
+[class*=" box-icon-border"].box-icon-success,
+.box-icon-border.box-icon-to-success:hover,
+[class^="box-icon-border"].box-icon-to-success:hover,
+[class*=" box-icon-border"].box-icon-to-success:hover {
+  border-color: #51a351;
+  color: #51a351;
+}
+.box-icon-border.box-icon-success:hover,
+[class^="box-icon-border"].box-icon-success:hover,
+[class*=" box-icon-border"].box-icon-success:hover,
+.box-icon-border.box-icon-to-success:hover:hover,
+[class^="box-icon-border"].box-icon-to-success:hover:hover,
+[class*=" box-icon-border"].box-icon-to-success:hover:hover {
+  background: #51a351;
+}
+.box-icon-border.box-icon-warning,
+[class^="box-icon-border"].box-icon-warning,
+[class*=" box-icon-border"].box-icon-warning,
+.box-icon-border.box-icon-to-warning:hover,
+[class^="box-icon-border"].box-icon-to-warning:hover,
+[class*=" box-icon-border"].box-icon-to-warning:hover {
+  border-color: #f89406;
+  color: #f89406;
+}
+.box-icon-border.box-icon-warning:hover,
+[class^="box-icon-border"].box-icon-warning:hover,
+[class*=" box-icon-border"].box-icon-warning:hover,
+.box-icon-border.box-icon-to-warning:hover:hover,
+[class^="box-icon-border"].box-icon-to-warning:hover:hover,
+[class*=" box-icon-border"].box-icon-to-warning:hover:hover {
+  background: #f89406;
+}
+.box-icon-border.box-icon-danger,
+[class^="box-icon-border"].box-icon-danger,
+[class*=" box-icon-border"].box-icon-danger,
+.box-icon-border.box-icon-to-danger:hover,
+[class^="box-icon-border"].box-icon-to-danger:hover,
+[class*=" box-icon-border"].box-icon-to-danger:hover {
+  border-color: #bd362f;
+  color: #bd362f;
+}
+.box-icon-border.box-icon-danger:hover,
+[class^="box-icon-border"].box-icon-danger:hover,
+[class*=" box-icon-border"].box-icon-danger:hover,
+.box-icon-border.box-icon-to-danger:hover:hover,
+[class^="box-icon-border"].box-icon-to-danger:hover:hover,
+[class*=" box-icon-border"].box-icon-to-danger:hover:hover {
+  background: #bd362f;
+}
+.box-icon-border.box-icon-inverse,
+[class^="box-icon-border"].box-icon-inverse,
+[class*=" box-icon-border"].box-icon-inverse,
+.box-icon-border.box-icon-to-inverse:hover,
+[class^="box-icon-border"].box-icon-to-inverse:hover,
+[class*=" box-icon-border"].box-icon-to-inverse:hover {
+  border-color: #695599;
+  color: #695599;
+}
+.box-icon-border.box-icon-inverse:hover,
+[class^="box-icon-border"].box-icon-inverse:hover,
+[class*=" box-icon-border"].box-icon-inverse:hover,
+.box-icon-border.box-icon-to-inverse:hover:hover,
+[class^="box-icon-border"].box-icon-to-inverse:hover:hover,
+[class*=" box-icon-border"].box-icon-to-inverse:hover:hover {
+  background: #695599;
+}
+.box-icon-border.box-icon-to-normal:hover,
+[class^="box-icon-border"].box-icon-to-normal:hover,
+[class*=" box-icon-border"].box-icon-to-normal:hover {
+  border-color: #96aa66;
+  background: #96aa66;
+}
+.box-icon-border-dashed {
+  border-style: dashed;
+}
+.animate-icon-border-rise:after,
+.animate-icon-border-rise-alt:after {
+  box-shadow: 0 0 0 2px #96aa66;
+}
+.animate-icon-border-rise.box-icon-black:after,
+.animate-icon-border-rise-alt.box-icon-black:after,
+.animate-icon-border-rise.box-icon-to-black:hover:after,
+.animate-icon-border-rise-alt.box-icon-to-black:hover:after {
+  box-shadow: 0 0 0 2px #333;
+}
+.animate-icon-border-rise.box-icon-gray:after,
+.animate-icon-border-rise-alt.box-icon-gray:after,
+.animate-icon-border-rise.box-icon-to-gray:hover:after,
+.animate-icon-border-rise-alt.box-icon-to-gray:hover:after {
+  box-shadow: 0 0 0 2px #808080;
+}
+.animate-icon-border-rise.box-icon-info:after,
+.animate-icon-border-rise-alt.box-icon-info:after,
+.animate-icon-border-rise.box-icon-to-info:hover:after,
+.animate-icon-border-rise-alt.box-icon-to-info:hover:after {
+  box-shadow: 0 0 0 2px #2f96b4;
+}
+.animate-icon-border-rise.box-icon-success:after,
+.animate-icon-border-rise-alt.box-icon-success:after,
+.animate-icon-border-rise.box-icon-to-success:hover:after,
+.animate-icon-border-rise-alt.box-icon-to-success:hover:after {
+  box-shadow: 0 0 0 2px #51a351;
+}
+.animate-icon-border-rise.box-icon-warning:after,
+.animate-icon-border-rise-alt.box-icon-warning:after,
+.animate-icon-border-rise.box-icon-to-warning:hover:after,
+.animate-icon-border-rise-alt.box-icon-to-warning:hover:after {
+  box-shadow: 0 0 0 2px #f89406;
+}
+.animate-icon-border-rise.box-icon-danger:after,
+.animate-icon-border-rise-alt.box-icon-danger:after,
+.animate-icon-border-rise.box-icon-to-danger:hover:after,
+.animate-icon-border-rise-alt.box-icon-to-danger:hover:after {
+  box-shadow: 0 0 0 2px #bd362f;
+}
+.animate-icon-border-rise.box-icon-inverse:after,
+.animate-icon-border-rise-alt.box-icon-inverse:after,
+.animate-icon-border-rise.box-icon-to-inverse:hover:after,
+.animate-icon-border-rise-alt.box-icon-to-inverse:hover:after {
+  box-shadow: 0 0 0 2px #695599;
+}
+.animate-icon-border-rise.box-icon-to-normal:after:hover,
+.animate-icon-border-rise-alt.box-icon-to-normal:after:hover {
+  box-shadow: 0 0 0 2px #96aa66;
+}
+.animate-icon-border-rise.round:after,
+.animate-icon-border-rise-alt.round:after {
+  border-radius: 50%;
+}
+.animate-icon-border-fadeout {
+  color: #fff;
+  background: none;
+  border: 2px solid #96aa66;
+}
+.animate-icon-border-fadeout:after {
+  opacity: 1;
+  background: #96aa66;
+}
+.animate-icon-border-fadeout:hover {
+  color: #96aa66;
+  background: none;
+}
+.animate-icon-border-fadeout:hover:after {
+  opacity: 0;
+  transform: scale(1.5);
+}
+.animate-icon-border-fadeout.box-icon-black,
+.animate-icon-border-fadeout.box-icon-to-black:hover {
+  border-color: #333;
+}
+.animate-icon-border-fadeout.box-icon-black:after,
+.animate-icon-border-fadeout.box-icon-to-black:hover:after {
+  background: #333;
+}
+.animate-icon-border-fadeout.box-icon-black:hover,
+.animate-icon-border-fadeout.box-icon-to-black:hover:hover {
+  color: #333;
+}
+.animate-icon-border-fadeout.box-icon-gray,
+.animate-icon-border-fadeout.box-icon-to-gray:hover {
+  border-color: #808080;
+}
+.animate-icon-border-fadeout.box-icon-gray:after,
+.animate-icon-border-fadeout.box-icon-to-gray:hover:after {
+  background: #808080;
+}
+.animate-icon-border-fadeout.box-icon-gray:hover,
+.animate-icon-border-fadeout.box-icon-to-gray:hover:hover {
+  color: #808080;
+}
+.animate-icon-border-fadeout.box-icon-info,
+.animate-icon-border-fadeout.box-icon-to-info:hover {
+  border-color: #2f96b4;
+}
+.animate-icon-border-fadeout.box-icon-info:after,
+.animate-icon-border-fadeout.box-icon-to-info:hover:after {
+  background: #2f96b4;
+}
+.animate-icon-border-fadeout.box-icon-info:hover,
+.animate-icon-border-fadeout.box-icon-to-info:hover:hover {
+  color: #2f96b4;
+}
+.animate-icon-border-fadeout.box-icon-success,
+.animate-icon-border-fadeout.box-icon-to-success:hover {
+  border-color: #51a351;
+}
+.animate-icon-border-fadeout.box-icon-success:after,
+.animate-icon-border-fadeout.box-icon-to-success:hover:after {
+  background: #51a351;
+}
+.animate-icon-border-fadeout.box-icon-success:hover,
+.animate-icon-border-fadeout.box-icon-to-success:hover:hover {
+  color: #51a351;
+}
+.animate-icon-border-fadeout.box-icon-warning,
+.animate-icon-border-fadeout.box-icon-to-warning:hover {
+  border-color: #f89406;
+}
+.animate-icon-border-fadeout.box-icon-warning:after,
+.animate-icon-border-fadeout.box-icon-to-warning:hover:after {
+  background: #f89406;
+}
+.animate-icon-border-fadeout.box-icon-warning:hover,
+.animate-icon-border-fadeout.box-icon-to-warning:hover:hover {
+  color: #f89406;
+}
+.animate-icon-border-fadeout.box-icon-danger,
+.animate-icon-border-fadeout.box-icon-to-danger:hover {
+  border-color: #bd362f;
+}
+.animate-icon-border-fadeout.box-icon-danger:after,
+.animate-icon-border-fadeout.box-icon-to-danger:hover:after {
+  background: #bd362f;
+}
+.animate-icon-border-fadeout.box-icon-danger:hover,
+.animate-icon-border-fadeout.box-icon-to-danger:hover:hover {
+  color: #bd362f;
+}
+.animate-icon-border-fadeout.box-icon-inverse,
+.animate-icon-border-fadeout.box-icon-to-inverse:hover {
+  border-color: #695599;
+}
+.animate-icon-border-fadeout.box-icon-inverse:after,
+.animate-icon-border-fadeout.box-icon-to-inverse:hover:after {
+  background: #695599;
+}
+.animate-icon-border-fadeout.box-icon-inverse:hover,
+.animate-icon-border-fadeout.box-icon-to-inverse:hover:hover {
+  color: #695599;
+}
+.animate-icon-border-fadeout.box-icon-to-normal {
+  border-color: #96aa66;
+}
+.animate-icon-border-fadeout.box-icon-to-normal:after {
+  background: #96aa66;
+}
+.animate-icon-border-fadeout.box-icon-to-normal:hover {
+  color: #96aa66;
+}
+.animate-icon-border-fadein {
+  color: #96aa66;
+  background: none;
+  border: 2px solid #96aa66;
+}
+.animate-icon-border-fadein:hover {
+  color: #fff !important;
+}
+.animate-icon-border-fadein:hover:after {
+  background: #96aa66;
+}
+.animate-icon-border-fadein.box-icon-black,
+.animate-icon-border-fadein.box-icon-to-black:hover {
+  color: #333;
+  border-color: #333;
+}
+.animate-icon-border-fadein.box-icon-black:hover:after,
+.animate-icon-border-fadein.box-icon-to-black:hover:hover:after {
+  background: #333;
+}
+.animate-icon-border-fadein.box-icon-gray,
+.animate-icon-border-fadein.box-icon-to-gray:hover {
+  color: #808080;
+  border-color: #808080;
+}
+.animate-icon-border-fadein.box-icon-gray:hover:after,
+.animate-icon-border-fadein.box-icon-to-gray:hover:hover:after {
+  background: #808080;
+}
+.animate-icon-border-fadein.box-icon-info,
+.animate-icon-border-fadein.box-icon-to-info:hover {
+  color: #2f96b4;
+  border-color: #2f96b4;
+}
+.animate-icon-border-fadein.box-icon-info:hover:after,
+.animate-icon-border-fadein.box-icon-to-info:hover:hover:after {
+  background: #2f96b4;
+}
+.animate-icon-border-fadein.box-icon-success,
+.animate-icon-border-fadein.box-icon-to-success:hover {
+  color: #51a351;
+  border-color: #51a351;
+}
+.animate-icon-border-fadein.box-icon-success:hover:after,
+.animate-icon-border-fadein.box-icon-to-success:hover:hover:after {
+  background: #51a351;
+}
+.animate-icon-border-fadein.box-icon-warning,
+.animate-icon-border-fadein.box-icon-to-warning:hover {
+  color: #f89406;
+  border-color: #f89406;
+}
+.animate-icon-border-fadein.box-icon-warning:hover:after,
+.animate-icon-border-fadein.box-icon-to-warning:hover:hover:after {
+  background: #f89406;
+}
+.animate-icon-border-fadein.box-icon-danger,
+.animate-icon-border-fadein.box-icon-to-danger:hover {
+  color: #bd362f;
+  border-color: #bd362f;
+}
+.animate-icon-border-fadein.box-icon-danger:hover:after,
+.animate-icon-border-fadein.box-icon-to-danger:hover:hover:after {
+  background: #bd362f;
+}
+.animate-icon-border-fadein.box-icon-inverse,
+.animate-icon-border-fadein.box-icon-to-inverse:hover {
+  color: #695599;
+  border-color: #695599;
+}
+.animate-icon-border-fadein.box-icon-inverse:hover:after,
+.animate-icon-border-fadein.box-icon-to-inverse:hover:hover:after {
+  background: #695599;
+}
+.animate-icon-border-fadein.box-icon-to-normal:hover {
+  color: #96aa66;
+  border-color: #96aa66;
+}
+.animate-icon-border-fadein.box-icon-to-normal:hover:hover:after {
+  background: #96aa66;
+}

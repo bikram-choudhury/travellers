@@ -1,0 +1,276 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('../fonts/icomoon.eot?v=4.0.3');
+  src: url('../fonts/icomoon.svg?v=4.0.3#icomoon') format('svg'), url('../fonts/icomoon.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../fonts/icomoon.woff?v=4.0.3') format('woff'), url('../fonts/icomoon.ttf?v=4.0.3') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.im {
+	font-family: icomoon;
+}
+
+.im-climate-control:before {
+	content: "\e629";
+}
+.im-dog:before {
+	content: "\e628";
+}
+.im-elder:before {
+	content: "\e627";
+}
+.im-smoking:before {
+	content: "\e626";
+}
+.im-shift-auto:before {
+	content: "\e600";
+}
+.im-lock:before {
+	content: "\e606";
+}
+.im-wheel-chair:before {
+	content: "\e60e";
+}
+.im-casino:before {
+	content: "\e610";
+}
+.im-diesel:before {
+	content: "\e624";
+}
+.im-car-doors:before {
+	content: "\e601";
+}
+.im-patio:before {
+	content: "\e602";
+}
+.im-satellite:before {
+	content: "\e603";
+}
+.im-parking:before {
+	content: "\e604";
+}
+.im-air:before {
+	content: "\e605";
+}
+.im-bathtub:before {
+	content: "\e607";
+}
+.im-soundproof:before {
+	content: "\e608";
+}
+.im-meet:before {
+	content: "\e609";
+}
+.im-width:before {
+	content: "\e60a";
+}
+.im-shift:before {
+	content: "\e60b";
+}
+.im-bed:before {
+	content: "\e60c";
+}
+.im-car-window:before {
+	content: "\e60d";
+}
+.im-pool:before {
+	content: "\e60f";
+}
+.im-terrace:before {
+	content: "\e611";
+}
+.im-plane:before {
+	content: "\e612";
+}
+.im-spa:before {
+	content: "\e613";
+}
+.im-fm:before {
+	content: "\e614";
+}
+.im-children:before {
+	content: "\e615";
+}
+.im-wi-fi:before {
+	content: "\e616";
+}
+.im-tv:before {
+	content: "\e617";
+}
+.im-washing-machine:before {
+	content: "\e618";
+}
+.im-bar:before {
+	content: "\e619";
+}
+.im-stereo:before {
+	content: "\e61a";
+}
+.im-electric:before {
+	content: "\e61b";
+}
+.im-car-wheel:before {
+	content: "\e61c";
+}
+.im-business-person:before {
+	content: "\e61d";
+}
+.im-driver:before {
+	content: "\e61e";
+}
+.im-icon_1041:before {
+	content: "\e625";
+}
+.im-fitness:before {
+	content: "\e61f";
+}
+.im-kitchen:before {
+	content: "\e620";
+}
+.im-shower:before {
+	content: "\e621";
+}
+.im-bus:before {
+	content: "\e622";
+}
+.im-restaurant:before {
+	content: "\e623";
+}
+.im-sunrise:before {
+	content: "\e75b";
+}
+.im-sun:before {
+	content: "\e75c";
+}
+.im-moon:before {
+	content: "\e75d";
+}
+.im-sun3:before {
+	content: "\e75e";
+}
+.im-windy:before {
+	content: "\e75f";
+}
+.im-wind:before {
+	content: "\e760";
+}
+.im-snowflake:before {
+	content: "\e761";
+}
+.im-cloudy:before {
+	content: "\e762";
+}
+.im-cloudy-moon:before {
+	content: "\e763";
+}
+.im-sun-lines:before {
+	content: "\e764";
+}
+.im-moon-lines:before {
+	content: "\e765";
+}
+.im-cloud-lines:before {
+	content: "\e766";
+}
+.im-lines:before {
+	content: "\e767";
+}
+.im-cloud:before {
+	content: "\e768";
+}
+.im-cloud-lightning:before {
+	content: "\e769";
+}
+.im-lightning:before {
+	content: "\e76a";
+}
+.im-rainy:before {
+	content: "\e76b";
+}
+.im-rain:before {
+	content: "\e76c";
+}
+.im-windy-cloud:before {
+	content: "\e76d";
+}
+.im-windy-cloud-rain:before {
+	content: "\e76e";
+}
+.im-snowy:before {
+	content: "\e76f";
+}
+.im-snowy-cloud:before {
+	content: "\e770";
+}
+.im-snow-cloud:before {
+	content: "\e771";
+}
+.im-snow-cloud-2:before {
+	content: "\e772";
+}
+.im-cloud-2:before {
+	content: "\e773";
+}
+.im-cloud-lightning-2:before {
+	content: "\e774";
+}
+.im-lightning-2:before {
+	content: "\e775";
+}
+.im-sun-fill:before {
+	content: "\e776";
+}
+.im-moon-fill:before {
+	content: "\e777";
+}
+.im-cloudy-fill:before {
+	content: "\e778";
+}
+.im-cloudy-moon-fill:before {
+	content: "\e779";
+}
+.im-cloud-fill:before {
+	content: "\e77a";
+}
+.im-cloud-lightning-fill:before {
+	content: "\e77b";
+}
+.im-rainy-fill:before {
+	content: "\e77c";
+}
+.im-rain-fill:before {
+	content: "\e77d";
+}
+.im-windy-cloud-fill:before {
+	content: "\e77e";
+}
+.im-windy-cloud-rain-fill:before {
+	content: "\e77f";
+}
+.im-snowy-cloud-fill:before {
+	content: "\e780";
+}
+.im-snow-cloud-fill-2:before {
+	content: "\e782";
+}
+.im-cloud-fill-2:before {
+	content: "\e783";
+}
+.im-cloud-lightning-fill-2:before {
+	content: "\e784";
+}
+.im-thermometer:before {
+	content: "\e785";
+}
+.im-compass:before {
+	content: "\e786";
+}
+.im-none:before {
+	content: "\e787";
+}
+.im-celsius:before {
+	content: "\e788";
+}
+.im-fahrenheit:before {
+	content: "\e789";
+}
